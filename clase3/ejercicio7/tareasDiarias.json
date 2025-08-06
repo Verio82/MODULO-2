@@ -1,0 +1,14 @@
+[
+  {
+    "descripcion": "Hacer ejercicio",
+    "estado": "completada"
+  },
+  {
+    "descripcion": "Leer un libro",
+    "estado": "pendiente"
+  },
+  {
+    "descripcion": "Hacer tarea JS",
+    "estado": "completada"
+  }
+]
