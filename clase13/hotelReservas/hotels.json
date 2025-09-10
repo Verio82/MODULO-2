@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hotel Sol",
+    "habitacionesDisponibles": 5
+  },
+  {
+    "id": 2,
+    "nombre": "Hotel Luna",
+    "habitacionesDisponibles": 0
+  },
+  {
+    "id": 3,
+    "nombre": "Hotel Estrella",
+    "habitacionesDisponibles": 12
+  }
+]

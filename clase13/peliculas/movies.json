@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "anio": 2010,
+    "genero": "Ciencia ficción"
+  },
+  {
+    "titulo": "Titanic",
+    "director": "James Cameron",
+    "anio": 1997,
+    "genero": "Romance/Drama"
+  },
+  {
+    "titulo": "The Matrix",
+    "director": "Lana y Lilly Wachowski",
+    "anio": 1999,
+    "genero": "Acción/Ciencia ficción"
+  }
+]
