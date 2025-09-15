@@ -3,7 +3,7 @@
 const PORT = 5000;
 const HOST = 'localhost';
 
-const net = require('net');
+import net from 'net';
 
 const server = net.createServer((socket) => {
     console.log('Un cliente se ha conectado al servidor');
