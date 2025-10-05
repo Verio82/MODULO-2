@@ -17,14 +17,13 @@ const server = net.createServer((socket) => {
    
 });
 
+
 socket.on('end', () => {
     console.log("El cliente se ha desconectado");
-    
 });
-
 });
 
 server.listen(PORT, () => {
     console.log("Servidor escuchando en el puerto ", PORT)
-})
+});
 
